@@ -25,4 +25,4 @@ User interface:
   -Profile page
   -Settings page
   
-  
+Sitemap can also be checked out here: https://lucid.app/lucidchart/cca65325-82c9-484c-9f63-86c20538825d/edit?viewport_loc=-1912%2C-529%2C2928%2C1454%2C0_0&invitationId=inv_97f786ef-b27c-4d36-8b5a-9632af90d61a
